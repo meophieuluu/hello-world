@@ -1,0 +1,22 @@
+/* Use the variables */
+body {
+  background-color: lightblue;
+  color: darkblue;
+  font-size: 18px; }
+
+.myArticle {
+  border: 1px solid red; }
+
+.myArticle {
+  font-size: 30px; }
+
+.myArticle {
+  padding: 30px; }
+
+.myArticle {
+  text-align: center; }
+
+.myArticle {
+  background: red; }
+
+/*# sourceMappingURL=style2.css.map */
